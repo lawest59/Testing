@@ -14,5 +14,8 @@ setwd("/Users/lowellawest/Google Drive/Programming/GIT")
 
 ## Loading Packages
 library(car)
+library(dplyr)
+library(ggplot2)
+library(datasets)
 
 ####
